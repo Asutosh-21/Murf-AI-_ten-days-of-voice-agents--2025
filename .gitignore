@@ -1,0 +1,71 @@
+# Environment files
+.env
+.env.local
+.env.production
+.env.staging
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Lock files (optional - you might want to keep these)
+# package-lock.json
+# pnpm-lock.yaml
+# uv.lock
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Coverage reports
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local data
+shared-data/
+orders/
+KMS/
