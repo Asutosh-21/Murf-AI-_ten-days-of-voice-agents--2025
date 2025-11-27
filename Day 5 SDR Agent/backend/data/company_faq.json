@@ -1,0 +1,111 @@
+{
+  "company": "Zerodha",
+  "product": "Online discount stock brokerage platform",
+  "about": "Zerodha is India's largest stock brokerage platform offering trading in equities, F&O, mutual funds, and more, with industry-low brokerage fees.",
+  "company_details": {
+    "founded": "2010",
+    "founders": "Nithin Kamath and Nikhil Kamath",
+    "headquarters": "Bangalore, India",
+    "employees": "1000+",
+    "customers": "6+ million",
+    "daily_trades": "3+ million",
+    "market_share": "15%+ of retail trading volume",
+    "valuation": "$3+ billion",
+    "revenue_model": "Flat fee brokerage, no percentage-based charges"
+  },
+  "how_it_works": {
+    "account_opening": "Visit zerodha.com → Click 'Open Account' → Fill form with personal details → Upload documents (PAN, Aadhaar, bank proof) → Complete video KYC → Account activated in 24 hours",
+    "trading_process": "Login to Kite → Search for stock/mutual fund → Enter quantity and price → Place order → Order executed on exchange → Shares credited to demat account",
+    "fund_transfer": "Add money via UPI/NEFT/RTGS → Funds reflect instantly (UPI) or within hours → Use funds to buy investments → Withdraw anytime to your bank account",
+    "settlement": "T+1 settlement cycle → Shares bought today are credited tomorrow → Money from sales available next day → Dividends and bonuses credited automatically"
+  },
+  "why_zerodha": {
+    "cost_advantage": "Flat ₹20 brokerage vs 0.5-1% charged by traditional brokers saves thousands annually",
+    "technology_first": "Award-winning Kite platform built for speed, reliability, and user experience",
+    "education_focus": "Free Varsity courses have educated millions of Indians on investing and trading",
+    "transparency": "No hidden charges, clear pricing, and honest communication about risks and returns",
+    "innovation": "Continuously launching new features like Console, Coin, Streak, and Sensibull"
+  },
+  "target_audience": {
+    "beginners": "New investors wanting to start with mutual funds and learn about markets",
+    "active_traders": "Experienced traders needing advanced tools and low-cost execution",
+    "long_term_investors": "Wealth builders focused on SIPs, portfolio tracking, and goal-based investing",
+    "professionals": "Busy professionals wanting simple, reliable platform for systematic investing",
+    "students": "Young investors starting their financial journey with small amounts"
+  },
+  "faqs": [
+    {
+      "question": "What does Zerodha do?",
+      "answer": "Zerodha allows users to trade stocks, futures, options, commodities, and currencies via its platform. It also offers long-term investment tools like mutual funds and government securities."
+    },
+    {
+      "question": "Do you have a free plan?",
+      "answer": "Equity delivery trades are free. For intraday and F&O trades, Zerodha charges ₹20 or 0.03% per executed order, whichever is lower."
+    },
+    {
+      "question": "Who is this for?",
+      "answer": "Zerodha is for retail investors, traders, beginners, and professionals who want a low-cost, reliable trading platform."
+    },
+    {
+      "question": "What are your brokerage fees?",
+      "answer": "Equity delivery: Free. Intraday & F&O: ₹20 per order. Mutual fund investments: Free."
+    },
+    {
+      "question": "How do I open an account?",
+      "answer": "You can open an account online using Aadhaar, PAN, and bank details. It takes 5–10 minutes."
+    },
+    {
+      "question": "Do you offer mutual funds?",
+      "answer": "Yes. Zerodha Coin allows users to buy mutual funds directly from AMCs with zero commission."
+    },
+    {
+      "question": "Is Zerodha safe?",
+      "answer": "Yes. Zerodha is a SEBI-registered broker, maintains strict compliance, and is one of the largest brokers in India."
+    },
+    {
+      "question": "Who founded Zerodha?",
+      "answer": "Zerodha was founded in 2010 by brothers Nithin Kamath and Nikhil Kamath in Bangalore."
+    },
+    {
+      "question": "How big is Zerodha?",
+      "answer": "Zerodha is India's largest broker with 6+ million customers, handling 3+ million trades daily."
+    },
+    {
+      "question": "Why is Zerodha different?",
+      "answer": "Zerodha pioneered discount broking in India with flat ₹20 fees instead of percentage-based charges."
+    },
+    {
+      "question": "What is Kite?",
+      "answer": "Kite is our flagship trading platform available on web and mobile with real-time market data and advanced charts."
+    },
+    {
+      "question": "What is Coin?",
+      "answer": "Coin is our mutual fund investment platform offering direct mutual funds with zero commission."
+    },
+    {
+      "question": "Do you have a mobile app?",
+      "answer": "Yes, Kite mobile app is available for iOS and Android with full trading functionality."
+    },
+    {
+      "question": "What is the minimum amount to start?",
+      "answer": "There's no minimum amount. You can start with as little as ₹100 to buy shares or ₹500 for SIP."
+    },
+    {
+      "question": "Do you provide research and tips?",
+      "answer": "We provide educational content through Varsity but don't give stock tips or recommendations."
+    }
+  ],
+  "success_stories": {
+    "customer_growth": "Grew from 0 to 6+ million customers in 13 years",
+    "cost_savings": "Saved Indian investors over ₹10,000 crores in brokerage fees",
+    "market_impact": "Forced entire industry to reduce brokerage rates",
+    "education_impact": "Varsity has over 10 million page views monthly"
+  },
+  "competitive_advantages": {
+    "pricing": "Lowest brokerage in India - ₹20 flat fee",
+    "technology": "Fastest order execution, 99.9% uptime",
+    "product_range": "Complete ecosystem - trading, mutual funds, bonds, IPOs",
+    "customer_service": "Responsive support, detailed documentation",
+    "financial_strength": "Profitable company, strong balance sheet, no debt"
+  }
+}

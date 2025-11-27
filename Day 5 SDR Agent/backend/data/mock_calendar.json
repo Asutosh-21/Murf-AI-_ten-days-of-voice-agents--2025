@@ -1,0 +1,138 @@
+{
+  "available_slots": [
+    {
+      "id": "slot_1",
+      "date": "2024-11-28",
+      "time": "9:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_2",
+      "date": "2024-11-28",
+      "time": "10:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_3",
+      "date": "2024-11-28",
+      "time": "2:00 PM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_4",
+      "date": "2024-11-28",
+      "time": "4:00 PM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_5",
+      "date": "2024-11-29",
+      "time": "9:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_6",
+      "date": "2024-11-29",
+      "time": "11:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_7",
+      "date": "2024-11-29",
+      "time": "1:00 PM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_8",
+      "date": "2024-11-29",
+      "time": "3:00 PM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_9",
+      "date": "2024-11-30",
+      "time": "10:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_10",
+      "date": "2024-11-30",
+      "time": "2:00 PM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_11",
+      "date": "2024-12-02",
+      "time": "9:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_12",
+      "date": "2024-12-02",
+      "time": "11:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_13",
+      "date": "2024-12-02",
+      "time": "3:00 PM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_14",
+      "date": "2024-12-03",
+      "time": "10:00 AM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    },
+    {
+      "id": "slot_15",
+      "date": "2024-12-03",
+      "time": "2:00 PM",
+      "duration": "30 minutes",
+      "type": "Demo Call"
+    }
+  ],
+  "booked_meetings": [
+    {
+      "slot_id": "slot_1",
+      "date": "2024-11-28",
+      "time": "9:00 AM",
+      "duration": "30 minutes",
+      "lead_name": "Asutosh",
+      "lead_email": "asutosh2005@redemail.com",
+      "booked_at": "2025-11-27T14:47:45.989624"
+    },
+    {
+      "slot_id": "slot_2",
+      "date": "2024-11-28",
+      "time": "10:00 AM",
+      "duration": "30 minutes",
+      "lead_name": "Ashutosh",
+      "lead_email": null,
+      "booked_at": "2025-11-27T19:07:01.156041"
+    },
+    {
+      "slot_id": "slot_4",
+      "date": "2024-11-28",
+      "time": "4:00 PM",
+      "duration": "30 minutes",
+      "lead_name": null,
+      "lead_email": null,
+      "booked_at": "2025-11-27T19:28:57.138244"
+    }
+  ]
+}
