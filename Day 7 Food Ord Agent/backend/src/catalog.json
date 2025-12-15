@@ -1,0 +1,381 @@
+{
+  "items": [
+    {
+      "name": "Basmati Rice",
+      "category": "groceries",
+      "price": 120,
+      "brand": "India Gate",
+      "size": "1 kg",
+      "unit": "bag",
+      "tags": ["basmati", "premium", "long grain"]
+    },
+    {
+      "name": "Whole Wheat Flour",
+      "category": "groceries",
+      "price": 45,
+      "brand": "Aashirvaad",
+      "size": "1 kg",
+      "unit": "bag",
+      "tags": ["whole wheat", "atta", "healthy"]
+    },
+    {
+      "name": "Toor Dal",
+      "category": "groceries",
+      "price": 140,
+      "brand": "Tata Sampann",
+      "size": "1 kg",
+      "unit": "bag",
+      "tags": ["lentils", "protein", "vegetarian"]
+    },
+    {
+      "name": "Moong Dal",
+      "category": "groceries",
+      "price": 130,
+      "brand": "Tata Sampann",
+      "size": "1 kg",
+      "unit": "bag",
+      "tags": ["lentils", "protein", "vegetarian"]
+    },
+    {
+      "name": "Chana Dal",
+      "category": "groceries",
+      "price": 110,
+      "brand": "Tata Sampann",
+      "size": "1 kg",
+      "unit": "bag",
+      "tags": ["lentils", "protein", "vegetarian"]
+    },
+    {
+      "name": "Onions",
+      "category": "groceries",
+      "price": 30,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "vegetable", "essential"]
+    },
+    {
+      "name": "Tomatoes",
+      "category": "groceries",
+      "price": 40,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "vegetable", "essential"]
+    },
+    {
+      "name": "Potatoes",
+      "category": "groceries",
+      "price": 25,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "vegetable", "essential"]
+    },
+    {
+      "name": "Ginger Garlic Paste",
+      "category": "groceries",
+      "price": 35,
+      "brand": "Kissan",
+      "size": "200g",
+      "unit": "jar",
+      "tags": ["paste", "cooking", "essential"]
+    },
+    {
+      "name": "Turmeric Powder",
+      "category": "groceries",
+      "price": 25,
+      "brand": "MDH",
+      "size": "100g",
+      "unit": "packet",
+      "tags": ["spice", "haldi", "essential"]
+    },
+    {
+      "name": "Red Chili Powder",
+      "category": "groceries",
+      "price": 30,
+      "brand": "MDH",
+      "size": "100g",
+      "unit": "packet",
+      "tags": ["spice", "mirch", "hot"]
+    },
+    {
+      "name": "Cumin Powder",
+      "category": "groceries",
+      "price": 40,
+      "brand": "MDH",
+      "size": "100g",
+      "unit": "packet",
+      "tags": ["spice", "jeera", "aromatic"]
+    },
+    {
+      "name": "Coriander Powder",
+      "category": "groceries",
+      "price": 35,
+      "brand": "MDH",
+      "size": "100g",
+      "unit": "packet",
+      "tags": ["spice", "dhania", "aromatic"]
+    },
+    {
+      "name": "Garam Masala",
+      "category": "groceries",
+      "price": 45,
+      "brand": "MDH",
+      "size": "100g",
+      "unit": "packet",
+      "tags": ["spice", "masala", "blend"]
+    },
+    {
+      "name": "Mustard Oil",
+      "category": "groceries",
+      "price": 180,
+      "brand": "Fortune",
+      "size": "1 liter",
+      "unit": "bottle",
+      "tags": ["oil", "cooking", "traditional"]
+    },
+    {
+      "name": "Coconut Oil",
+      "category": "groceries",
+      "price": 220,
+      "brand": "Parachute",
+      "size": "500ml",
+      "unit": "bottle",
+      "tags": ["oil", "coconut", "pure"]
+    },
+    {
+      "name": "Paneer",
+      "category": "groceries",
+      "price": 80,
+      "brand": "Amul",
+      "size": "200g",
+      "unit": "pack",
+      "tags": ["dairy", "protein", "vegetarian"]
+    },
+    {
+      "name": "Curd",
+      "category": "groceries",
+      "price": 25,
+      "brand": "Amul",
+      "size": "400g",
+      "unit": "cup",
+      "tags": ["dairy", "yogurt", "fresh"]
+    },
+    {
+      "name": "Milk",
+      "category": "groceries",
+      "price": 30,
+      "brand": "Amul",
+      "size": "500ml",
+      "unit": "packet",
+      "tags": ["dairy", "fresh", "full cream"]
+    },
+    {
+      "name": "Green Chilies",
+      "category": "groceries",
+      "price": 20,
+      "brand": "Fresh",
+      "size": "100g",
+      "unit": "pack",
+      "tags": ["fresh", "spicy", "vegetable"]
+    },
+    {
+      "name": "Coriander Leaves",
+      "category": "groceries",
+      "price": 10,
+      "brand": "Fresh",
+      "size": "100g",
+      "unit": "bunch",
+      "tags": ["fresh", "herbs", "dhania"]
+    },
+    {
+      "name": "Mint Leaves",
+      "category": "groceries",
+      "price": 15,
+      "brand": "Fresh",
+      "size": "100g",
+      "unit": "bunch",
+      "tags": ["fresh", "herbs", "pudina"]
+    },
+    {
+      "name": "Chicken",
+      "category": "groceries",
+      "price": 280,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "protein", "meat"]
+    },
+    {
+      "name": "Mutton",
+      "category": "groceries",
+      "price": 650,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "protein", "meat"]
+    },
+    {
+      "name": "Fish",
+      "category": "groceries",
+      "price": 320,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "protein", "seafood"]
+    },
+    {
+      "name": "Bananas",
+      "category": "groceries",
+      "price": 60,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "fruit", "potassium", "vegan"]
+    },
+    {
+      "name": "Apples",
+      "category": "groceries",
+      "price": 180,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "fruit", "crisp", "vegan"]
+    },
+    {
+      "name": "Mangoes",
+      "category": "groceries",
+      "price": 120,
+      "brand": "Fresh",
+      "size": "1 kg",
+      "unit": "kg",
+      "tags": ["fresh", "fruit", "sweet", "vegan"]
+    },
+    {
+      "name": "Butter Chicken",
+      "category": "prepared_food",
+      "price": 280,
+      "brand": "QuickBasket Kitchen",
+      "size": "500g",
+      "unit": "pack",
+      "tags": ["ready to eat", "chicken", "curry"]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "category": "prepared_food",
+      "price": 220,
+      "brand": "QuickBasket Kitchen",
+      "size": "400g",
+      "unit": "pack",
+      "tags": ["ready to eat", "vegetarian", "paneer"]
+    },
+    {
+      "name": "Dal Makhani",
+      "category": "prepared_food",
+      "price": 180,
+      "brand": "QuickBasket Kitchen",
+      "size": "400g",
+      "unit": "pack",
+      "tags": ["ready to eat", "vegetarian", "dal"]
+    },
+    {
+      "name": "Biryani",
+      "category": "prepared_food",
+      "price": 320,
+      "brand": "QuickBasket Kitchen",
+      "size": "750g",
+      "unit": "pack",
+      "tags": ["ready to eat", "rice", "spiced"]
+    },
+    {
+      "name": "Samosas",
+      "category": "prepared_food",
+      "price": 60,
+      "brand": "QuickBasket Kitchen",
+      "size": "4 pieces",
+      "unit": "pack",
+      "tags": ["snack", "fried", "vegetarian"]
+    },
+    {
+      "name": "Parathas",
+      "category": "prepared_food",
+      "price": 80,
+      "brand": "McCain",
+      "size": "4 pieces",
+      "unit": "pack",
+      "tags": ["frozen", "bread", "ready to cook"]
+    },
+    {
+      "name": "Namkeen Mix",
+      "category": "snacks",
+      "price": 40,
+      "brand": "Haldiram's",
+      "size": "200g",
+      "unit": "pack",
+      "tags": ["crispy", "salty", "traditional"]
+    },
+    {
+      "name": "Biscuits",
+      "category": "snacks",
+      "price": 25,
+      "brand": "Parle-G",
+      "size": "200g",
+      "unit": "pack",
+      "tags": ["sweet", "tea time", "glucose"]
+    },
+    {
+      "name": "Masala Chips",
+      "category": "snacks",
+      "price": 20,
+      "brand": "Lay's",
+      "size": "50g",
+      "unit": "pack",
+      "tags": ["crispy", "spicy", "masala"]
+    },
+    {
+      "name": "Chai Tea",
+      "category": "snacks",
+      "price": 120,
+      "brand": "Tata Tea",
+      "size": "500g",
+      "unit": "pack",
+      "tags": ["tea", "traditional", "strong"]
+    },
+    {
+      "name": "Instant Coffee",
+      "category": "snacks",
+      "price": 180,
+      "brand": "Nescafe",
+      "size": "200g",
+      "unit": "jar",
+      "tags": ["coffee", "instant", "strong"]
+    },
+    {
+      "name": "Mango Juice",
+      "category": "snacks",
+      "price": 35,
+      "brand": "Frooti",
+      "size": "200ml",
+      "unit": "pack",
+      "tags": ["juice", "mango", "sweet"]
+    }
+  ],
+  "recipes": {
+    "dal rice": ["Toor Dal", "Basmati Rice", "Turmeric Powder", "Onions"],
+    "rajma rice": ["Toor Dal", "Basmati Rice", "Onions", "Tomatoes", "Garam Masala"],
+    "chicken curry": ["Chicken", "Onions", "Tomatoes", "Ginger Garlic Paste", "Turmeric Powder", "Red Chili Powder"],
+    "paneer curry": ["Paneer", "Onions", "Tomatoes", "Ginger Garlic Paste", "Turmeric Powder", "Garam Masala"],
+    "biryani": ["Basmati Rice", "Chicken", "Onions", "Garam Masala", "Coriander Leaves", "Mint Leaves"],
+    "vegetable curry": ["Potatoes", "Onions", "Tomatoes", "Turmeric Powder", "Cumin Powder", "Coriander Powder"],
+    "roti": ["Whole Wheat Flour"],
+    "chai": ["Chai Tea", "Milk"],
+    "dal tadka": ["Toor Dal", "Onions", "Tomatoes", "Turmeric Powder", "Cumin Powder", "Mustard Oil"],
+    "aloo sabzi": ["Potatoes", "Onions", "Turmeric Powder", "Cumin Powder", "Mustard Oil"],
+    "fish curry": ["Fish", "Onions", "Tomatoes", "Turmeric Powder", "Red Chili Powder", "Coconut Oil"],
+    "mutton curry": ["Mutton", "Onions", "Tomatoes", "Ginger Garlic Paste", "Garam Masala", "Red Chili Powder"],
+    "curd rice": ["Basmati Rice", "Curd"],
+    "masala tea": ["Chai Tea", "Milk"],
+    "simple dal": ["Moong Dal", "Turmeric Powder", "Mustard Oil"]
+  }
+}

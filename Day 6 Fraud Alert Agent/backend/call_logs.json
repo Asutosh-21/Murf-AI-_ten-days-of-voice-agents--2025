@@ -1,0 +1,10 @@
+[
+  {
+    "customer_name": "John Smith",
+    "case_id": "12345",
+    "outcome": "confirmed_safe",
+    "verification_status": "success",
+    "transaction_decision": "safe",
+    "timestamp": "2025-11-28T20:35:40.560461"
+  }
+]
